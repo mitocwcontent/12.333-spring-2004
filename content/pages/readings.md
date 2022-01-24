@@ -1,0 +1,23 @@
+---
+content_type: page
+title: Readings
+uid: dd51333a-871a-a8d2-b40f-47b66e6eaf39
+---
+
+These suggestions for further reading are taken from the lecture notes, and are collected here for the convenience of the students.
+
+| SES # | TOPICS | READINGS |
+| --- | --- | --- |
+| 1-2 | Shallow Water Gravity Waves | _Elementary but brief descriptions of water waves (not confined to those on shallow water) can be found in:  {{< br >}}  {{< br >}}_Open University Course Team. Chap. 1 in _Waves, Tides and Shallow-Water Processes._ The Open University: Pergamon Press, 1989. ISBN: 0080363717.  {{< br >}}  {{< br >}}Acheson, D. J. _Elementary Fluid Dynamics_. New York, NY: Oxford University Press, 1990. ISBN: 9780198596790.  {{< br >}}  {{< br >}}_Other treatments can be found in many fluid dynamics texts, but are usually much more advanced and more mathematical than these two. One particularly thorough treatment is in:  {{< br >}}  {{< br >}}_Lighthill, James. Chap. 3 in _Waves in Fluids_. New York, NY: Cambridge University Press, 2001.  ISBN: 9780521010450. |
+| 3-4 | Deep Water Gravity Waves | Same as for sessions 1-2 |
+| 5-6 | Internal Gravity Waves | _Internal gravity waves are covered to some extent in many texts of geophysical fluid dynamics. A detailed but thorough treatment is given in:  {{< br >}}  {{< br >}}_Gill, A. E. Chap. 6 in _Atmosphere-Ocean Dynamics_. San Diego, CA: Academic Press, 1982. ISBN: 9780122835223. |
+| 7 | Mid-Term Quiz 1 | &nbsp; |
+| 8-9 | Tides | _An elementary discussion of ocean tides is given in:  {{< br >}}  {{< br >}}_Open University Course Team. Chap. 1 in _Waves, Tides and Shallow-Water Processes._ The Open University: Pergamon Press, 1989. ISBN: 0080363717.  {{< br >}}  {{< br >}}_A comprehensive discussion of the mathematical theory of tides on a global ocean is given in the classical text:  {{< br >}}  {{< br >}}_Lamb, H. _Hydrodynamics_. Cambridge University Press, 1916.  {{< br >}}  {{< br >}}_For a discussion of atmospheric tides (including an historical account of the resonance theory) see:  {{< br >}}  {{< br >}}_Lindzen, R. S. Chap. 9 in _Dynamics in Atmospheric Physics_. New York, NY: Cambridge University Press, 1990. ISBN: 9780521361019. |
+| 10-11 | Large-scale Motions on a Rotating Earth | _This material is covered in several geophysical fluid dynamics texts. The most suitable is:  {{< br >}}  {{< br >}}_Holton, J. R. Chaps. 1 and 4 in _An Introduction to Dynamic Meteorology_. 2nd ed. San Diego, CA: Academic Press, 1979. ISBN: 9780123543608. |
+| 12-13 | Rossby Waves and Planetary Scale Motions | _Observational and theoretical aspects of Rossby waves are covered in several geophysical fluid dynamics texts, including:  {{< br >}}  {{< br >}}_Holton, J. R. _An Introduction to Dynamic Meteorology_. 2nd ed. San Diego, CA: Academic Press, 1979. ISBN: 9780123543608. |
+| 14 | Mid-Term Quiz 2 | &nbsp; |
+| 15-16 | Baroclinic Instability and Midlatitude Storms | Holton, J. R. _An Introduction to Dynamic Meteorology_. 2nd ed. San Diego, CA:: Academic Press, 1979. ISBN: 9780123543608.  {{< br >}}  {{< br >}}James, I. N. _Introduction to Circulating Atmospheres_. New York, NY: Cambridge University Press, 1995. ISBN: 9780521429351.  {{< br >}}  {{< br >}}Wallace, J. M., and P. V. Hobbs. _Atmospheric Science: An Introductory_ _Survey_. San Diego, CA: Academic Press, 1977. ISBN: 9780127329505. |
+| 17-18 | The Equatorial Atmosphere and Ocean | &nbsp; |
+| 19-20 | El Niño and the Southern Oscillation | _A good, basic discussion of all the issues presented here (and several of the figures), as well as discussion of the impact of El_ _Nino, can be found in:  {{< br >}}  {{< br >}}_Philander, S. G. _El Nino, La Nina and the Southern Oscillation_. San Diego, CA: Academic Press, 1989. ISBN: 9780125532358. (The later chapters are at an advanced level.)  {{< br >}}  {{< br >}}_An interesting series of articles on the large 1982-83 El Nino was published in Science on 16 Dec 1983. For discussion of the ocean and atmosphere, see the articles by Cane and by Rasmusson and Wallace.  {{< br >}}  {{< br >}}Information about past and current behavior can be found on many Web sites, such as_ [_NONA El Niño Page_](http://www.elnino.noaa.gov/) _(from which some of the figures shown here were obtained; this site also has pointers to many others)._ |
+| 21-22 | Tropical Cyclones (Hurricanes, Typhoons) | &nbsp; |
+| 23 | Final Exam |
